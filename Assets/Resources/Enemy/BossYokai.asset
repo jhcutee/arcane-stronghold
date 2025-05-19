@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27b51c50e197e0443a3114fe25121042, type: 3}
+  m_Name: BossYokai
+  m_EditorClassIdentifier: 
+  enemyType: 7
+  enemyAvatar: {fileID: -714393637, guid: 8d5c67e9b3f84204c95431afaae8171c, type: 3}
+  maxHp: 550
+  moveSpeed: 0.8
+  specialEffects: 0500000003000000
+  crystalReward: 130
+  mageBookReward: 1

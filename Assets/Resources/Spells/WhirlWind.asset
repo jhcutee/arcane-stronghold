@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2eea70962052c5240925ff53b04599fa, type: 3}
+  m_Name: WhirlWind
+  m_EditorClassIdentifier: 
+  spellSprite: {fileID: 21300000, guid: 56b0dede290a1db46b08863b5dc7f434, type: 3}
+  spellIcon: {fileID: -616637683, guid: af7f5e0df7a1b914fa8611401452ea35, type: 3}
+  spellCooldownTime: 30
+  spellAudioClip: {fileID: 0}

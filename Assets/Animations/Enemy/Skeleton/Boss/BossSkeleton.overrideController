@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BossSkeleton
+  m_Controller: {fileID: 9100000, guid: 217da6cd99c39bf45a55bdf43d754b8f, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 89027193512966345ac29012a6757f11, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1e75c73dfcc98b347bbff2257dd1045a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 8ab6c13065943974cb6aa943130cf0f4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f4ce23f8451645042acf3a0a2c900c74, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d970fc4b91c95844296cb787749ac2c0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8386c75686fddef4db0079ac6d82071a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 8bdffc8a497b61d4d91ba2892abe34f7, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 898416e6d137a4a4d88f9fb4ebb515bf, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 39327c9ac7ec2834b9a57a81f8dda0f2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6a21a7596b745564ab66a6679a29585a, type: 2}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11bac08346f5a0948af9c2655fe17308, type: 3}
+  m_Name: Level3
+  m_EditorClassIdentifier: 
+  towersUnlocked:
+  - towerSO: {fileID: 11400000, guid: 99bcb025e3ca69f4ab82bfc73bea16ff, type: 2}
+  - towerSO: {fileID: 11400000, guid: 515b765de3f2f4c42a33adccc66fde90, type: 2}
+  - towerSO: {fileID: 11400000, guid: 447c91f39905c6c46822bac4ef1c7d53, type: 2}
+  - towerSO: {fileID: 11400000, guid: 97e738b5d42fd07439ac53e5e150b8b6, type: 2}
+  - towerSO: {fileID: 11400000, guid: 74c040c504fa2144fb365d2189d6e6a6, type: 2}
+  - towerSO: {fileID: 11400000, guid: eb5ceeea0c41bed4a84d980b848ec20f, type: 2}

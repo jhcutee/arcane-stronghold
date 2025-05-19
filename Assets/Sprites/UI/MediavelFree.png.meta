@@ -1,0 +1,411 @@
+fileFormatVersion: 2
+guid: 23d4f9507bfa35f41bfccdadc192a388
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MediavelFree_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2383261b47dccdc4a81a7a86eef6a50b
+      internalID: 1065334930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediavelFree_0
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe099deb271e0c0488c37f43a4a27a12
+      internalID: -232869004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediavelFree_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9a63ebadb04214d9fa8e8f37f00de2
+      internalID: -535861604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediavelFree_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b9338e23b85f14394363423c7cc9d1
+      internalID: 1789959280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediavelFree_3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de4583eff24e414ebd4a0dccf263bd0
+      internalID: 1868545354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediavelFree_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccdc4ccd6e2ab74894993a7864f3d39
+      internalID: 411621572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediavelFree_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269796426f8209745825a1356587e96a
+      internalID: 1789703755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MediavelFree_0: -232869004
+      MediavelFree_1: -535861604
+      MediavelFree_10: 1873949379
+      MediavelFree_100: 890386658
+      MediavelFree_101: 839892302
+      MediavelFree_102: -2118004607
+      MediavelFree_103: 1392621385
+      MediavelFree_104: -407297368
+      MediavelFree_105: -500858141
+      MediavelFree_106: -347440228
+      MediavelFree_107: -1870201490
+      MediavelFree_108: -143936089
+      MediavelFree_109: -2063264974
+      MediavelFree_11: -763829813
+      MediavelFree_110: 1050221613
+      MediavelFree_111: -87798385
+      MediavelFree_112: -43401072
+      MediavelFree_113: -742335177
+      MediavelFree_114: 1519158431
+      MediavelFree_115: -48134858
+      MediavelFree_116: -85700099
+      MediavelFree_117: 1568027572
+      MediavelFree_118: -2083188908
+      MediavelFree_119: -809816555
+      MediavelFree_12: 1979096355
+      MediavelFree_120: 1566915688
+      MediavelFree_121: 1301436026
+      MediavelFree_122: 986189408
+      MediavelFree_123: 92634176
+      MediavelFree_13: 2012486210
+      MediavelFree_14: 1902815555
+      MediavelFree_15: 278073683
+      MediavelFree_16: 1039810015
+      MediavelFree_17: 1316615303
+      MediavelFree_18: 646640490
+      MediavelFree_19: 2124161291
+      MediavelFree_2: 1789959280
+      MediavelFree_20: 348315703
+      MediavelFree_21: -1164647634
+      MediavelFree_22: 1622536859
+      MediavelFree_23: 1405049324
+      MediavelFree_24: 1246141301
+      MediavelFree_25: 1938715916
+      MediavelFree_26: 885500855
+      MediavelFree_27: -1914704648
+      MediavelFree_28: 1851773965
+      MediavelFree_29: -376027999
+      MediavelFree_3: 1868545354
+      MediavelFree_30: 1604140317
+      MediavelFree_31: -784467238
+      MediavelFree_32: -1203366867
+      MediavelFree_33: 1424428614
+      MediavelFree_34: -910587538
+      MediavelFree_35: -1434366720
+      MediavelFree_36: 521654381
+      MediavelFree_37: -1408267416
+      MediavelFree_38: 265155246
+      MediavelFree_39: 1923350859
+      MediavelFree_4: 411621572
+      MediavelFree_40: 1381925072
+      MediavelFree_41: 1262283327
+      MediavelFree_42: 1065334930
+      MediavelFree_43: -490066298
+      MediavelFree_44: -1390705562
+      MediavelFree_45: -1060063845
+      MediavelFree_46: 1836277870
+      MediavelFree_47: -1209698836
+      MediavelFree_48: -918441339
+      MediavelFree_49: -1461669442
+      MediavelFree_5: 1789703755
+      MediavelFree_50: 477585241
+      MediavelFree_51: 1387504492
+      MediavelFree_52: 219556718
+      MediavelFree_53: 1432706156
+      MediavelFree_54: 1133178035
+      MediavelFree_55: 1830307159
+      MediavelFree_56: -728853192
+      MediavelFree_57: 162007611
+      MediavelFree_58: -193805311
+      MediavelFree_59: 1869300597
+      MediavelFree_6: 1071488528
+      MediavelFree_60: -219538799
+      MediavelFree_61: -1807066659
+      MediavelFree_62: -1711487355
+      MediavelFree_63: -1238539146
+      MediavelFree_64: 1418605227
+      MediavelFree_65: -249198090
+      MediavelFree_66: 1741722886
+      MediavelFree_67: -1678658800
+      MediavelFree_68: -1696528134
+      MediavelFree_69: 580275570
+      MediavelFree_7: -703097782
+      MediavelFree_70: 143099408
+      MediavelFree_71: -632372318
+      MediavelFree_72: 430821826
+      MediavelFree_73: 1462300456
+      MediavelFree_74: 881055541
+      MediavelFree_75: 231822441
+      MediavelFree_76: 2113741958
+      MediavelFree_77: 1814140610
+      MediavelFree_78: -265212176
+      MediavelFree_79: -1594160774
+      MediavelFree_8: -1858701172
+      MediavelFree_80: -649229444
+      MediavelFree_81: -208711831
+      MediavelFree_82: -663176921
+      MediavelFree_83: 484223672
+      MediavelFree_84: 1510131187
+      MediavelFree_85: 1424478468
+      MediavelFree_86: 249212978
+      MediavelFree_87: -1093944402
+      MediavelFree_88: -939314907
+      MediavelFree_89: 1406976586
+      MediavelFree_9: -929890387
+      MediavelFree_90: -2045158154
+      MediavelFree_91: -1785607033
+      MediavelFree_92: -116086979
+      MediavelFree_93: -1492886719
+      MediavelFree_94: -480243524
+      MediavelFree_95: 727770968
+      MediavelFree_96: -304307220
+      MediavelFree_97: 1110137016
+      MediavelFree_98: 1632699552
+      MediavelFree_99: 1958270592
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

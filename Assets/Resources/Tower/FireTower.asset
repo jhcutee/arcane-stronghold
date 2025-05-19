@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6758a68ca0bee8045854a389482a9391, type: 3}
+  m_Name: FireTower
+  m_EditorClassIdentifier: 
+  towerType: 2
+  towerIcon:
+  - {fileID: 1325427554, guid: f3879b7db9166f14b91150baeaf4cea6, type: 3}
+  - {fileID: -400769914, guid: f3879b7db9166f14b91150baeaf4cea6, type: 3}
+  - {fileID: 927750069, guid: f3879b7db9166f14b91150baeaf4cea6, type: 3}
+  towerCrytalCost: 550
+  attackRange: 4
+  fireRate: 1
+  dmgPerLevel: 140000002300000037000000
+  projectLineSpeed: 7
+  specialEffects: 5
+  maxUpgradeLevel: 3
+  upgradeCrystalCost: 9001000058020000
+  upgradeMageBookCost: 0100000002000000

@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: 2ba1ba154534aaa4da2d01d053e8f4da
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Grass Tileset_1_35
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8101b03de9685a44c81771cabeda3a6c
+      internalID: 191979153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Grass Tileset_1_0: -1815936265
+      Grass Tileset_1_1: 337692339
+      Grass Tileset_1_10: 1844730991
+      Grass Tileset_1_100: 679202455
+      Grass Tileset_1_101: 2042677160
+      Grass Tileset_1_102: -473733894
+      Grass Tileset_1_103: 965938050
+      Grass Tileset_1_104: 1691905899
+      Grass Tileset_1_105: -75720765
+      Grass Tileset_1_106: 1245802909
+      Grass Tileset_1_107: 251044666
+      Grass Tileset_1_108: -447564358
+      Grass Tileset_1_109: 1920283758
+      Grass Tileset_1_11: -1683532806
+      Grass Tileset_1_110: 798463431
+      Grass Tileset_1_111: 1474992139
+      Grass Tileset_1_112: -1470756401
+      Grass Tileset_1_113: -2008323141
+      Grass Tileset_1_114: 1186141945
+      Grass Tileset_1_115: 1117085178
+      Grass Tileset_1_116: 1082316886
+      Grass Tileset_1_12: -162246393
+      Grass Tileset_1_13: -1046861380
+      Grass Tileset_1_14: 822562561
+      Grass Tileset_1_15: -476592409
+      Grass Tileset_1_16: 1710255913
+      Grass Tileset_1_17: -358016374
+      Grass Tileset_1_18: -1025245926
+      Grass Tileset_1_19: 1777904345
+      Grass Tileset_1_2: -1233113513
+      Grass Tileset_1_20: 1233517271
+      Grass Tileset_1_21: -91438611
+      Grass Tileset_1_22: 231325202
+      Grass Tileset_1_23: 281161106
+      Grass Tileset_1_24: 582825394
+      Grass Tileset_1_25: 747927630
+      Grass Tileset_1_26: -1086888461
+      Grass Tileset_1_27: -274379417
+      Grass Tileset_1_28: 2033364492
+      Grass Tileset_1_29: 485019707
+      Grass Tileset_1_3: -2064590404
+      Grass Tileset_1_30: 900418912
+      Grass Tileset_1_31: 1539272976
+      Grass Tileset_1_32: -1788738628
+      Grass Tileset_1_33: 1034342211
+      Grass Tileset_1_34: 264281902
+      Grass Tileset_1_35: 191979153
+      Grass Tileset_1_36: -1117577352
+      Grass Tileset_1_37: 768123442
+      Grass Tileset_1_38: 1613025648
+      Grass Tileset_1_39: 535608760
+      Grass Tileset_1_4: 1731770982
+      Grass Tileset_1_40: -1529431489
+      Grass Tileset_1_41: 519705550
+      Grass Tileset_1_42: -2143531575
+      Grass Tileset_1_43: -1048367201
+      Grass Tileset_1_44: -391199331
+      Grass Tileset_1_45: 1864204283
+      Grass Tileset_1_46: -1807358905
+      Grass Tileset_1_47: -746317354
+      Grass Tileset_1_48: 1956249849
+      Grass Tileset_1_49: -1782019224
+      Grass Tileset_1_5: 1100430074
+      Grass Tileset_1_50: 465791090
+      Grass Tileset_1_51: 890145450
+      Grass Tileset_1_52: 773704367
+      Grass Tileset_1_53: 247569649
+      Grass Tileset_1_54: 724075198
+      Grass Tileset_1_55: -1654414233
+      Grass Tileset_1_56: -2144280108
+      Grass Tileset_1_57: -2073396998
+      Grass Tileset_1_58: -1091557013
+      Grass Tileset_1_59: -553844821
+      Grass Tileset_1_6: -1266376523
+      Grass Tileset_1_60: -2113984182
+      Grass Tileset_1_61: -1136024954
+      Grass Tileset_1_62: -214815441
+      Grass Tileset_1_63: -11583885
+      Grass Tileset_1_64: -286185502
+      Grass Tileset_1_65: 1045813230
+      Grass Tileset_1_66: 610875148
+      Grass Tileset_1_67: 84862957
+      Grass Tileset_1_68: 1902963474
+      Grass Tileset_1_69: 185169341
+      Grass Tileset_1_7: 1084997670
+      Grass Tileset_1_70: 2014565222
+      Grass Tileset_1_71: 1609596214
+      Grass Tileset_1_72: -815824869
+      Grass Tileset_1_73: -121350572
+      Grass Tileset_1_74: -1045861665
+      Grass Tileset_1_75: -715928846
+      Grass Tileset_1_76: 711972454
+      Grass Tileset_1_77: -1522950815
+      Grass Tileset_1_78: 1420592674
+      Grass Tileset_1_79: -1633358053
+      Grass Tileset_1_8: 262117539
+      Grass Tileset_1_80: -2085069900
+      Grass Tileset_1_81: 1205448839
+      Grass Tileset_1_82: -2051835687
+      Grass Tileset_1_83: -619146000
+      Grass Tileset_1_84: -341280388
+      Grass Tileset_1_85: -155851121
+      Grass Tileset_1_86: -491881257
+      Grass Tileset_1_87: 1273953937
+      Grass Tileset_1_88: 1114622071
+      Grass Tileset_1_89: 1007648578
+      Grass Tileset_1_9: 949264948
+      Grass Tileset_1_90: 1210763830
+      Grass Tileset_1_91: -606267530
+      Grass Tileset_1_92: -70634042
+      Grass Tileset_1_93: -1156616359
+      Grass Tileset_1_94: -1771626929
+      Grass Tileset_1_95: -2067022541
+      Grass Tileset_1_96: -278337671
+      Grass Tileset_1_97: 1113258888
+      Grass Tileset_1_98: -1797132696
+      Grass Tileset_1_99: -637828591
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

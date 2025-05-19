@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SonicTower
+  m_Controller: {fileID: 9100000, guid: 60e849e8805bd594c8d19d8608cc9170, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: ddf4120d6f6e4f04599e3fe4b8244774, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f9c4dc0319fbae446ab9556020cf8c0b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9d9bfc4e4b30c764dbe31c901833367c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 739fc0b2f9c664444816a9b6be5f31e2, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 08f91ebec26e20a4891012a12dc6b28c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f8720bad5d6c1514db61d8b96c915114, type: 2}

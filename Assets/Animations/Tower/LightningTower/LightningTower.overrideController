@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LightningTower
+  m_Controller: {fileID: 9100000, guid: 60e849e8805bd594c8d19d8608cc9170, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: ddf4120d6f6e4f04599e3fe4b8244774, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1b93485e1a337984a8e941b4494cff1f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9d9bfc4e4b30c764dbe31c901833367c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ea60ec27bc3ed774ba8461d5c9f36d17, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 08f91ebec26e20a4891012a12dc6b28c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 62be506e109b343418c0032aa0b09918, type: 2}

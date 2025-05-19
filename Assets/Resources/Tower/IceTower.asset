@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6758a68ca0bee8045854a389482a9391, type: 3}
+  m_Name: IceTower
+  m_EditorClassIdentifier: 
+  towerType: 0
+  towerIcon:
+  - {fileID: -126604528, guid: cfbb3a4a7267ec34aa3620c884981417, type: 3}
+  - {fileID: -730365753, guid: cfbb3a4a7267ec34aa3620c884981417, type: 3}
+  - {fileID: 878540192, guid: cfbb3a4a7267ec34aa3620c884981417, type: 3}
+  towerCrytalCost: 500
+  attackRange: 4
+  fireRate: 1
+  dmgPerLevel: 1e0000003200000050000000
+  projectLineSpeed: 6
+  specialEffects: 1
+  maxUpgradeLevel: 3
+  upgradeCrystalCost: 5e010000f4010000
+  upgradeMageBookCost: 0100000002000000

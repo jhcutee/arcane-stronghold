@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6758a68ca0bee8045854a389482a9391, type: 3}
+  m_Name: SonicTower
+  m_EditorClassIdentifier: 
+  towerType: 4
+  towerIcon:
+  - {fileID: -2109340825, guid: 89503f2c7ab0b6e4ea737fce7deca2fa, type: 3}
+  - {fileID: 299128702, guid: 89503f2c7ab0b6e4ea737fce7deca2fa, type: 3}
+  - {fileID: 1478481547, guid: 89503f2c7ab0b6e4ea737fce7deca2fa, type: 3}
+  towerCrytalCost: 650
+  attackRange: 4
+  fireRate: 3
+  dmgPerLevel: 0c0000001400000023000000
+  projectLineSpeed: 10
+  specialEffects: 4
+  maxUpgradeLevel: 3
+  upgradeCrystalCost: c201000058020000
+  upgradeMageBookCost: 0100000002000000

@@ -1,0 +1,972 @@
+fileFormatVersion: 2
+guid: a11ea103d81f8dd4b896a5dcd08d3fcc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ui-small-buttons_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37828279b829e7a48aa3e0a62d382b9e
+      internalID: 1658258534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui-small-buttons_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b834501028b11469b7557c5bf623ab
+      internalID: -523351217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui-small-buttons_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613957af6da29c94f95c7ba84d1d52eb
+      internalID: 1464259103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui-small-buttons_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552a96571674c0e4ab7c3599827e6d56
+      internalID: -119941910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui-small-buttons_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b8c42b5605a384fa3ec89b84ce2b00
+      internalID: -341537865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui-small-buttons_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc6976706277f74f91c5d8039ead6d6
+      internalID: -775824298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui-small-buttons_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e978e1302904f484dbe6db636ab9313f
+      internalID: 1022061763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui-small-buttons_39
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e380699e04591c4da9c122b9b02432a
+      internalID: -1336667711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui-small-buttons_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962f2961bdcfb7549bb4a1685b4cf71d
+      internalID: -666752522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui-small-buttons_49
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0c9a78ef741c4418473ad60719061a
+      internalID: 1599911231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui-small-buttons_58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf17c3dd7cede4488f055113ae559c7
+      internalID: -604300779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui-small-buttons_59
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80071ec6781acb43a5f46b4eabc837b
+      internalID: -1327604668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui-small-buttons_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7132120c96120c347bbada94e070a468
+      internalID: -1335214585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui-small-buttons_69
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a449c85ed64b5e47b705070ca140321
+      internalID: -1446858005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui-small-buttons_78
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af626e1dadd0f44d9b75442b1d12c93
+      internalID: 1137922883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui-small-buttons_79
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3ab1f46990622438eed2b62cc3ad64
+      internalID: 1746156524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui-small-buttons_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dacfa9cecc2cce42a959b9900a5db34
+      internalID: -302022380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui-small-buttons_89
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad63e9625c80caa4fa2ddcf0d508ecb6
+      internalID: -1919247703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui-small-buttons_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eabb9dcc1d6f294dbba355262658fe5
+      internalID: -1480261501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui-small-buttons_99
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c33534b5f6e4e8409c06220cb7b4335
+      internalID: 1319483540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui-small-buttons_108
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fd547596fe9ea449b1f6eaa02309ad
+      internalID: -1927448405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui-small-buttons_109
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea073f71fa54e44a8dc4357cb1d0653
+      internalID: -1803204614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui-small-buttons_118
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86e69c421cf5ba43aa1c65d5bbcf6f0
+      internalID: -138036205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui-small-buttons_119
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb5a5fe107aa5a47a3ce2de95d5ad7a
+      internalID: -1079275780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui-small-buttons_128
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91c12be6b529524caa4f43974c2fc3a
+      internalID: 162212526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui-small-buttons_129
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29548da481cd1f44855d8cae97c2916
+      internalID: 1588560945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui-small-buttons_138
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a53e4a46f3d6c40ba397c5a736f9d9
+      internalID: 2044695842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui-small-buttons_139
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67964930e2748141956a3ecdc4e7ad5
+      internalID: 840383411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui-small-buttons_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5826679bc125f434d88225fa6640c1d7
+      internalID: -1216488126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui-small-buttons_149
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc1f4781d426b14b985880d9eaae0a4
+      internalID: 1412191269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui-small-buttons_158
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9d10f3a9bb40649b1a7c2a8a4d0973
+      internalID: 361850463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui-small-buttons_159
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21973e5c8ad97ee4883f19aa57b25fca
+      internalID: -8525089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ui-small-buttons_0: 957081555
+      ui-small-buttons_1: 1425749339
+      ui-small-buttons_10: -1187991781
+      ui-small-buttons_100: 1408346519
+      ui-small-buttons_101: 2057488724
+      ui-small-buttons_102: -770570516
+      ui-small-buttons_103: -2100037980
+      ui-small-buttons_104: 1988644454
+      ui-small-buttons_105: -838465266
+      ui-small-buttons_106: 1395810724
+      ui-small-buttons_107: 1143637068
+      ui-small-buttons_108: -1927448405
+      ui-small-buttons_109: -1803204614
+      ui-small-buttons_11: -1855905621
+      ui-small-buttons_110: 168183423
+      ui-small-buttons_111: 374644811
+      ui-small-buttons_112: -1633805859
+      ui-small-buttons_113: -1598910799
+      ui-small-buttons_114: 439539316
+      ui-small-buttons_115: 1324691321
+      ui-small-buttons_116: 1444550834
+      ui-small-buttons_117: -548910705
+      ui-small-buttons_118: -138036205
+      ui-small-buttons_119: -1079275780
+      ui-small-buttons_12: 2048808305
+      ui-small-buttons_120: 32430699
+      ui-small-buttons_121: 1265486790
+      ui-small-buttons_122: 1139778525
+      ui-small-buttons_123: -1870926567
+      ui-small-buttons_124: 256525144
+      ui-small-buttons_125: -1207952935
+      ui-small-buttons_126: 202857598
+      ui-small-buttons_127: -1605576325
+      ui-small-buttons_128: 162212526
+      ui-small-buttons_129: 1588560945
+      ui-small-buttons_13: -26878030
+      ui-small-buttons_130: 1037307433
+      ui-small-buttons_131: -1860370327
+      ui-small-buttons_132: 900582160
+      ui-small-buttons_133: 708807087
+      ui-small-buttons_134: 583621734
+      ui-small-buttons_135: 1044567167
+      ui-small-buttons_136: 1000040506
+      ui-small-buttons_137: -1269085664
+      ui-small-buttons_138: 2044695842
+      ui-small-buttons_139: 840383411
+      ui-small-buttons_14: -1387437318
+      ui-small-buttons_140: 1559155116
+      ui-small-buttons_141: 1665627989
+      ui-small-buttons_142: 940940352
+      ui-small-buttons_143: -334578259
+      ui-small-buttons_144: -368259610
+      ui-small-buttons_145: -88526926
+      ui-small-buttons_146: 567111861
+      ui-small-buttons_147: 1586979384
+      ui-small-buttons_148: -1216488126
+      ui-small-buttons_149: 1412191269
+      ui-small-buttons_15: -369231276
+      ui-small-buttons_150: 412317058
+      ui-small-buttons_151: -1071903676
+      ui-small-buttons_152: -1780847444
+      ui-small-buttons_153: -282678676
+      ui-small-buttons_154: 1748587324
+      ui-small-buttons_155: -1340219770
+      ui-small-buttons_156: -1298370980
+      ui-small-buttons_157: -1392109973
+      ui-small-buttons_158: 361850463
+      ui-small-buttons_159: -8525089
+      ui-small-buttons_16: 412980604
+      ui-small-buttons_17: -790371057
+      ui-small-buttons_18: 1464259103
+      ui-small-buttons_19: -119941910
+      ui-small-buttons_2: 1456548635
+      ui-small-buttons_20: -928022193
+      ui-small-buttons_21: 207159570
+      ui-small-buttons_22: 1902121462
+      ui-small-buttons_23: 518448499
+      ui-small-buttons_24: -917183450
+      ui-small-buttons_25: 1158223542
+      ui-small-buttons_26: -1737293660
+      ui-small-buttons_27: 1908679896
+      ui-small-buttons_28: -341537865
+      ui-small-buttons_29: -775824298
+      ui-small-buttons_3: 1612520990
+      ui-small-buttons_30: 2115358744
+      ui-small-buttons_31: 1715351793
+      ui-small-buttons_32: 352446649
+      ui-small-buttons_33: 629350851
+      ui-small-buttons_34: -2046305241
+      ui-small-buttons_35: 799571415
+      ui-small-buttons_36: 1443105126
+      ui-small-buttons_37: -1140940596
+      ui-small-buttons_38: 1022061763
+      ui-small-buttons_39: -1336667711
+      ui-small-buttons_4: 930160750
+      ui-small-buttons_40: -1900316112
+      ui-small-buttons_41: -1975618103
+      ui-small-buttons_42: -1823313733
+      ui-small-buttons_43: -1728316232
+      ui-small-buttons_44: 1206550125
+      ui-small-buttons_45: -853680978
+      ui-small-buttons_46: 59063992
+      ui-small-buttons_47: -598077063
+      ui-small-buttons_48: -666752522
+      ui-small-buttons_49: 1599911231
+      ui-small-buttons_5: 382628531
+      ui-small-buttons_50: 250766359
+      ui-small-buttons_51: 1161236343
+      ui-small-buttons_52: -2091810562
+      ui-small-buttons_53: 87706462
+      ui-small-buttons_54: -954206933
+      ui-small-buttons_55: 1456729628
+      ui-small-buttons_56: 1881102996
+      ui-small-buttons_57: 1284293163
+      ui-small-buttons_58: -604300779
+      ui-small-buttons_59: -1327604668
+      ui-small-buttons_6: 1124253464
+      ui-small-buttons_60: 242969507
+      ui-small-buttons_61: -1644165607
+      ui-small-buttons_62: -2134988353
+      ui-small-buttons_63: 566908529
+      ui-small-buttons_64: 1999695723
+      ui-small-buttons_65: -377937315
+      ui-small-buttons_66: -1216929555
+      ui-small-buttons_67: 132877839
+      ui-small-buttons_68: -1335214585
+      ui-small-buttons_69: -1446858005
+      ui-small-buttons_7: 1479244379
+      ui-small-buttons_70: -767935018
+      ui-small-buttons_71: 704549061
+      ui-small-buttons_72: 416903277
+      ui-small-buttons_73: 1937948552
+      ui-small-buttons_74: -1497018947
+      ui-small-buttons_75: 835698221
+      ui-small-buttons_76: -443074846
+      ui-small-buttons_77: -968946351
+      ui-small-buttons_78: 1137922883
+      ui-small-buttons_79: 1746156524
+      ui-small-buttons_8: 1658258534
+      ui-small-buttons_80: 429410716
+      ui-small-buttons_81: -762282994
+      ui-small-buttons_82: -1506393882
+      ui-small-buttons_83: 1518349045
+      ui-small-buttons_84: 1450564639
+      ui-small-buttons_85: -1954559672
+      ui-small-buttons_86: 364411931
+      ui-small-buttons_87: 931712656
+      ui-small-buttons_88: -302022380
+      ui-small-buttons_89: -1919247703
+      ui-small-buttons_9: -523351217
+      ui-small-buttons_90: 714226988
+      ui-small-buttons_91: -894961564
+      ui-small-buttons_92: 458546656
+      ui-small-buttons_93: 204266807
+      ui-small-buttons_94: 249301999
+      ui-small-buttons_95: 970790979
+      ui-small-buttons_96: -1923595146
+      ui-small-buttons_97: -422564301
+      ui-small-buttons_98: -1480261501
+      ui-small-buttons_99: 1319483540
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

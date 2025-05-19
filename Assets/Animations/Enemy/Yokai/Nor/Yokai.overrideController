@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Yokai
+  m_Controller: {fileID: 9100000, guid: 217da6cd99c39bf45a55bdf43d754b8f, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 89027193512966345ac29012a6757f11, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 94b8c01d38229434d8eaa18d90f2eae5, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 8ab6c13065943974cb6aa943130cf0f4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e14d32b5b330c3944904329327261fcc, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d970fc4b91c95844296cb787749ac2c0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ec548506a11d24644a87f6cdbf0053e2, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 8bdffc8a497b61d4d91ba2892abe34f7, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ec8c8b7f5f60c8f41a8a7f442d7981e0, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 39327c9ac7ec2834b9a57a81f8dda0f2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d4c01ffa726a575438dbc51a4327920d, type: 2}

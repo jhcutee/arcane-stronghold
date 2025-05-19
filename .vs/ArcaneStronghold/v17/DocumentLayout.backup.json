@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Unity\\ArcaneStronghold\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B220486-9B2B-4A28-AB5A-704DA1C39A8D}|Assembly-CSharp.csproj|f:\\unity\\arcanestronghold\\assets\\script\\manager\\adsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B220486-9B2B-4A28-AB5A-704DA1C39A8D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\manager\\adsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Unity\\ArcaneStronghold\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\Button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\Button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B220486-9B2B-4A28-AB5A-704DA1C39A8D}|Assembly-CSharp.csproj|f:\\unity\\arcanestronghold\\assets\\script\\spell\\spellinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B220486-9B2B-4A28-AB5A-704DA1C39A8D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\spell\\spellinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B220486-9B2B-4A28-AB5A-704DA1C39A8D}|Assembly-CSharp.csproj|f:\\unity\\arcanestronghold\\assets\\script\\manager\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B220486-9B2B-4A28-AB5A-704DA1C39A8D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\manager\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B220486-9B2B-4A28-AB5A-704DA1C39A8D}|Assembly-CSharp.csproj|f:\\unity\\arcanestronghold\\assets\\script\\spell\\spellreward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B220486-9B2B-4A28-AB5A-704DA1C39A8D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\spell\\spellreward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Button.cs",
+              "DocumentMoniker": "F:\\Unity\\ArcaneStronghold\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\Button.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\Button.cs",
+              "ToolTip": "F:\\Unity\\ArcaneStronghold\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\Button.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\Button.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAWwEUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T17:03:14.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdsManager.cs",
+              "DocumentMoniker": "F:\\Unity\\ArcaneStronghold\\Assets\\Script\\Manager\\AdsManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Manager\\AdsManager.cs",
+              "ToolTip": "F:\\Unity\\ArcaneStronghold\\Assets\\Script\\Manager\\AdsManager.cs*",
+              "RelativeToolTip": "Assets\\Script\\Manager\\AdsManager.cs*",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAiwL0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T16:40:08.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpellInfo.cs",
+              "DocumentMoniker": "F:\\Unity\\ArcaneStronghold\\Assets\\Script\\Spell\\SpellInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Spell\\SpellInfo.cs",
+              "ToolTip": "F:\\Unity\\ArcaneStronghold\\Assets\\Script\\Spell\\SpellInfo.cs",
+              "RelativeToolTip": "Assets\\Script\\Spell\\SpellInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T16:36:18.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "F:\\Unity\\ArcaneStronghold\\Assets\\Script\\Manager\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Manager\\UIManager.cs",
+              "ToolTip": "F:\\Unity\\ArcaneStronghold\\Assets\\Script\\Manager\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Manager\\UIManager.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAwwG8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T16:35:09.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpellReward.cs",
+              "DocumentMoniker": "F:\\Unity\\ArcaneStronghold\\Assets\\Script\\Spell\\SpellReward.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Spell\\SpellReward.cs",
+              "ToolTip": "F:\\Unity\\ArcaneStronghold\\Assets\\Script\\Spell\\SpellReward.cs",
+              "RelativeToolTip": "Assets\\Script\\Spell\\SpellReward.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T16:09:58.19Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
